@@ -7,7 +7,7 @@ A browser-based digital blackboard built with React and TypeScript. Designed for
 
 ## Application Demo
 
-https://github.com/user-attachments/assets/4a326666-c91e-4eef-a787-589ead47677f
+https://github.com/user-attachments/assets/e03374b5-3ab0-42b9-a20e-a4a338e44c83
 
 ## Features
 
