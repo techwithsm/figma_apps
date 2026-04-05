@@ -4,6 +4,11 @@ A browser-based digital blackboard built with React and TypeScript. Designed for
 
 <img width="1448" height="668" alt="blackboard-1775425710904" src="https://github.com/user-attachments/assets/077c4ab5-26d5-4546-a151-b392fb35b281" />
 
+
+## Application Demo
+
+https://github.com/user-attachments/assets/4a326666-c91e-4eef-a787-589ead47677f
+
 ## Features
 
 - **Chalk drawing** — freehand drawing with a subtle chalk texture and dust effect
