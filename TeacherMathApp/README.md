@@ -2,6 +2,8 @@
 
 A browser-based digital blackboard built with React and TypeScript. Designed for teachers to write, draw, and present math content on a realistic chalkboard surface.
 
+<img width="1448" height="668" alt="blackboard-1775425710904" src="https://github.com/user-attachments/assets/077c4ab5-26d5-4546-a151-b392fb35b281" />
+
 ## Features
 
 - **Chalk drawing** — freehand drawing with a subtle chalk texture and dust effect
